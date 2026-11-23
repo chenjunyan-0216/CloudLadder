@@ -1,0 +1,60 @@
+# ── 闭源声明:源码与内置资料一律不上传 ──
+app.py
+*.py
+obf*/
+dist*/
+plan.json
+config.json
+progress.json
+study_log.csv
+focus_log.csv
+exam_log.json
+wrongbook.json
+summaries.json
+reading.json
+reviews.json
+applications.json
+cheatsheet.md
+backups/
+
+# ── 打包产物与构建中间产物 ──
+dist/
+build/
+*.spec
+
+# ── Python ──
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# ── 日志与临时文件 ──
+*.log
+*.tmp
+~$*
+
+# ── 内置电子书(体积大,走 Releases 或官方渠道获取)──
+resources/
+resources_src/
+*.pdf
+
+# ── 截图 / 个人笔记 / 文档 ──
+*.png
+*.jpg
+*.docx
+*.pptx
+下一窗口接续提示词.md
+
+# ── IDE / 系统 ──
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# ── 绿色版打包产物(走 Releases,不进仓库)──
+软件/
+
+# ── 内置资料随安装包分发,不进仓库 ──
+exam_bank.json
+cheatsheet.md
+软件/
