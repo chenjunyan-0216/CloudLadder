@@ -41,7 +41,7 @@
 
 ## 作者
 
-**陈钧焱**（GitHub: [chenjunyan-0216](https://github.com/chenjunyan-0216)）
+**陈钧炎**（GitHub: [chenjunyan-0216](https://github.com/chenjunyan-0216)）
 
 ## 已知限制
 
